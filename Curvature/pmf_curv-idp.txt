@@ -1,0 +1,7 @@
+         # name     E [kT]    dE [kT]  reps
+         b2_idp       1.34       0.13     3
+        d22_idp       1.22       0.07     3
+       kor2_idp       1.56       0.15     3
+         d1_idp       1.84       0.19     3
+        atr_idp       1.34       0.15     3
+     hecate_idp       0.11       0.32     3
