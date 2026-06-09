@@ -1,0 +1,13 @@
+Host alpha
+    HostName 10.75.135.5 
+    User andreas
+    ForwardX11 yes
+
+Host rome
+    HostName ssh.computerome.dk
+    User andhaa
+
+Host lumi
+    HostName lumi.csc.fi
+    User larsenan   
+    IdentityFile /home/andreas/.ssh/id_ed25519_lumi3 
