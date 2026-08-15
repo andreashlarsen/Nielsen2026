@@ -1,5 +1,5 @@
 # Nielsen2026
-MD scripts for Nielsen et al. 2026: DOI will appear here when published
+MD scripts for Nielsen et al. 2026: [https://doi.org/10.1016/j.jmb.2026.169979](https://doi.org/10.1016/j.jmb.2026.169979)
 
 ## Curvature sensing simualations
 All scripts for curvature simulations are in the "Curvature" folder - starting point is the bash script ``Flow.sh``, which calls the other files, generates files and folders, etc. 
